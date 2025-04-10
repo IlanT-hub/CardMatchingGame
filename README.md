@@ -14,6 +14,7 @@ Planned the game's logic: shuffle cards, event handling for clicks, card matchin
 Created a GUI using Java Swing, providing visual elements (cards, images, and dialogs).
 Implemented the main gameplay loop and debugged interactions between the graphical components and game logic.
 Enhanced user experience with smooth animations and intuitive feedback.
+
 Technologies Used:
 
 Java, Swing, AWT
